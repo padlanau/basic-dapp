@@ -12,8 +12,8 @@ Requirements :
 > - create abi.js 
 ```
 after migrating (migrate --reset) the people project:
- - get its abi from D:\blockchain\basic-dapp\Peopleproject\build\contracts\People.json
- - get the contact address and paste it in main.js with code:
+   - get its abi from D:\blockchain\basic-dapp\Peopleproject\build\contracts\People.json
+   - get the contact address and paste it in main.js with code:
     contractInstance = new web3.eth.Contract(window.abi, "< paste contract address here >"
 ```
 > - create web3.min.js 
@@ -21,7 +21,7 @@ after migrating (migrate --reset) the people project:
 
 
 To run the Dapp: 
-> - Ganache is up and running
+> - Ganache must be up and running
 > - Contract is deployed (migrate --reset)
 > - Metamask is connected to Ganache node and account has a balance
 > - run the Server (be sure you are in the main project folder)  

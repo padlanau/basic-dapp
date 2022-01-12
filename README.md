@@ -96,7 +96,7 @@ To run the Dapp:
 > - Metamask is connected to Ganache node and account has a balance
 > - run the Server (be sure you are in the main project folder)  
 > - PS D:\blockchain\basic-dapp> python -m http.server  
-> - from your browser, opne http://localhost:8000/
+> - from your browser, type http://localhost:8000/ 
 
 Screenshots :
 

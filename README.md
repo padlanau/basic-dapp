@@ -103,6 +103,8 @@ Screenshots :
 <img width="939" alt="StudentDapp01" src="https://user-images.githubusercontent.com/297092/149056744-d15d19cf-a151-43dd-ab76-45d7e033e1a4.png">
 <img width="884" alt="StudentDapp02" src="https://user-images.githubusercontent.com/297092/149056869-c66953e6-ba07-442f-8437-8b8e850e8e28.png">
 <img width="921" alt="StudentDapp03" src="https://user-images.githubusercontent.com/297092/149056882-ed34fa3d-27b6-4919-8244-8054b70b0f07.png">
+Before adding data, take note of the balance.
 <img width="851" alt="StudentDapp04Before" src="https://user-images.githubusercontent.com/297092/149056906-077d48a6-db1b-4e11-8d8e-2ae38058a14c.png">
+Before adding data, take note of the balance.
 <img width="854" alt="StudentDapp05After" src="https://user-images.githubusercontent.com/297092/149056925-590fb3c5-7ae5-47c8-a159-2f0ab8c8dcac.png">
 <img width="829" alt="StudentDapp06" src="https://user-images.githubusercontent.com/297092/149056942-5984cd8a-fed9-438c-b4f1-8180fb0c9451.png">
